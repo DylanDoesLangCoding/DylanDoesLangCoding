@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DylanDoesLangCoding
-- 👀 I’m interested in programming language design & web developement.
-- 🌱 I’m currently learning C, Flex, and Bison.
+- 👀 I’m interested in programming language design, compilers, systems programming & web developement.
+- 🌱 I’m currently learning C, Go & Python.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: 
   - Email: dylan20xx@outlook.com
